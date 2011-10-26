@@ -1,0 +1,20 @@
+Pendências:
+
+
+Imagem
+- Cor em formato HTML (muito trabalhoso operar sobre 3 inteiros)
+	Alguma coisa avançou. Mas ainda não mostra o valor na tela.
+	Mostrar como?
+		"#FFFF00 = 440"
+		"255, 255, 0 = 440"
+		"amarelo = dó".
+- Só vai retângulo?
+- Como desenhar: com pontos? 
+- Muito abstrato... como fazer as linhas enquanto se desenha?
+
+
+Som
+- Imagens com limites bem definidos têm sons "cortados".
+	Aparentemente isso foi resolvido.
+- Imagens com limites difusos/borrados têm sons com "fade in/out".
+- Ou a mudança é em tempo real? Tecla de atalho?
